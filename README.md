@@ -1,10 +1,6 @@
-![Metrics](/github-metrics.svg)
-
 ### For Your Next Successful Project, Let's Connect!
 
 <img width="1000" alt="full-stack" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
-
-![](https://komarev.com/ghpvc/?username=elite-mob)
 
 Hey there! 👋 If you're on the lookout for a seasoned Software Engineer to bring your project to life, you're in the right place!
 
@@ -24,7 +20,7 @@ Specializations:
 - Mobile Backend Development: Powerful backends supporting your app's functionality.
 - Mobile Product Strategy: Shaping your app idea into a successful product.
 - Prototyping and Concept Development: Transforming concepts into tangible prototypes.
-- Quality Assurance & Testing: Meticulous testing procedures ensuring flawless functionality.
+- Quality Assurance & Testing: Meticulous testing procedures ensure flawless functionality.
 - Security and Compliance: Prioritizing app security and ensuring compliance with industry standards.
 - App Analytics: Gaining valuable insights into user behavior and app performance.
 - App Indexing: Maximizing app visibility for search engines.
