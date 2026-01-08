@@ -1,21 +1,16 @@
 <img width="1000" alt="full-stack" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
 
-Are you tired of hiring developers who write messy code, miss deadlines, or don’t understand the big picture? I’m here to change that. With a laser-sharp focus on clean, efficient code and seamless communication, I ensure your project stays on time and within budget.
+Seasoned Full-Stack Software Engineer with over 14 years of experience building, scaling,
+and leading development of more than 100 web and mobile applications across diverse
+industries — including mapping, logistics, social media, and smart home automation. Adept
+at collaborating with cross-functional teams, mentoring developers, and delivering clean,
+maintainable, and high-performance code. Skilled in both frontend and backend
+development, cloud services, and agile delivery.
 
-🔥 Why Work With Me?
-As a seasoned Full-Stack Developer, I create high-performance web applications with robust back-end logic and a seamless user experience. From server-side development to pixel-perfect front-end design, I offer the complete package.
-
-💡 What I Deliver:
-✅ Custom Development – I analyze requirements in-depth and build optimized, scalable solutions.
-✅ Speed & Performance – Efficient, well-structured code that keeps your app running smoothly.
-✅ Bug-Free Execution – Rigorously tested applications to ensure zero downtime.
-✅ Future-Ready Solutions – I don’t just build for today—I create solutions that scale with your business.
-
-🛠 My Tech Stack:
-✔️ Back-End Power: PHP (Laravel, Symfony, CodeIgniter), Python (Django, Flask)
-✔️ Front-End Expertise: JavaScript (Vue, React, Next), HTML5, CSS3
-✔️ DevOps & Version Control: Git, Docker, CI/CD Pipelines
-✔️ Database Mastery: SQL & NoSQL solutions
-✔️ Problem Solver & Project Manager: I streamline workflows and deliver flawless results.
-
-🎯 Let’s Build Something Incredible!
+- Languages: Swift, Kotlin, JavaScript/TypeScript, Python, C#, Java, Objective-C
+- Frameworks & Libraries: React, React Native, Angular, Node.js, .NET, Django, Express, SwiftUI
+- Mobile: iOS, Android, Flutter, React Native
+- Cloud & DevOps: AWS, Firebase, Azure, Docker, CI/CD, GitHub Actions
+- Databases: PostgreSQL, MySQL, MongoDB, SQLite
+- Tools: Jira, Xcode, Visual Studio, Cursor, Android Studio, Visual Studio Code, Figma, Git, Bitbucket
+- Other: REST APIs, GraphQL, WebSockets, Microservices Architecture, Agile/Scrum
