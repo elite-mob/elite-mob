@@ -2,7 +2,7 @@
 
 Seasoned Full-Stack Software Engineer with over 10 years of experience building, scaling,
 and leading development of more than 100 web and mobile applications across diverse
-industries — including mapping, logistics, social media, and smart home automation. Adept
+industries - including mapping, logistics, social media, and smart home automation. Adept
 at collaborating with cross-functional teams, mentoring developers, and delivering clean,
 maintainable, and high-performance code. Skilled in both frontend and backend
 development, cloud services, and agile delivery.
