@@ -6,7 +6,7 @@ I’m a senior full-stack software engineer focused on building production-ready
 
 My work spans backend, frontend, mobile, and infrastructure. I build complete products, not just features. That includes public-facing websites, internal dashboards, mobile apps, admin panels, and integrations that actually hold up in production.
 
-You can find more about my work and background at https://elite-mob.lovable.app.
+You can find more about my work and background at https://elite-mob.github.io.
 
 What I focus on day to day:
 - Backend development with Node.js and Python, building REST and event-driven systems, background jobs, third-party integrations, and payment flows
