@@ -1,7 +1,5 @@
 <img width="1000" alt="full-stack" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
 
-Hi, I’m Hans.
-
 I’m a senior full-stack software engineer focused on building production-ready web and mobile applications for real users. I’ve shipped and maintained systems end to end, from product discovery and UI design through backend implementation, deployment, and long-term support.
 
 My work spans backend, frontend, mobile, and infrastructure. I build complete products, not just features. That includes public-facing websites, internal dashboards, mobile apps, admin panels, and integrations that actually hold up in production.
