@@ -5,12 +5,6 @@
 
 <img width="1000" alt="full-stack" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
 
-### ⌨️ Typing Intro
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Node.js+%7C+Python+%7C+React+%7C+TypeScript;Building+production-ready+web+%26+mobile+apps)](https://git.io/typing-svg)
-
----
-
 ### 📊 Profile Statistics
 
 [![Profile Views](https://komarev.com/ghpvc/?username=elite-mob&color=0e75b6&style=for-the-badge&label=Profile+Views)](https://github.com/elite-mob)
