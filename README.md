@@ -15,8 +15,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=elite-mob&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elite-mob&show_icons=true&theme=radical&hide_border=true&border_radius=8&include_all_commits=true)](https://github.com/elite-mob)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elite-mob&layout=compact&theme=radical&hide_border=true&border_radius=8&langs_count=8)](https://github.com/elite-mob)
+[![GitHub Stats](./profile/stats.svg)](https://github.com/elite-mob)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/elite-mob)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=elite-mob&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/elite-mob)
+[![trophy](./profile/trophy.svg)](https://github.com/elite-mob)
 
 ---
 
