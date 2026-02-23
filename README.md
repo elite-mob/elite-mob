@@ -16,12 +16,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=elite-mob&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Stats](./profile/stats.svg)](https://github.com/elite-mob)
-[![Top Languages](./profile/top-langs.svg)](https://github.com/elite-mob)
-
-<!-- Repos you contributed to - all-time contributions (includes forks) -->
-[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=elite-mob&combine_all_yearly_contributions=true&theme=radical&hide_border=true)](https://github-contributor-stats.vercel.app)
-
 ---
 
 ### 📈 Contribution Activity
