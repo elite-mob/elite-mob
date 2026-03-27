@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace elite-mob with your GitHub username in all URLs below if different -->
-<!-- For better stats: add GH_TOKEN (PAT with repo + read:user) in repo secrets -->
+<!-- Optional: add GH_TOKEN (PAT) in repo secrets for trophy/snake workflow API limits -->
 
 <img width="1000" alt="full-stack" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
 
@@ -15,6 +15,9 @@
 ### 🔥 Contribution Streak & Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=elite-mob&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://readme-stats-github.pages.dev/api?username=elite-mob&show_icons=false&theme=radical&hide_border=true&border_radius=8&include_all_commits=true)](https://github.com/elite-mob)
+[![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=elite-mob&layout=compact&theme=radical&hide_border=true&border_radius=8&langs_count=10)](https://github.com/elite-mob)
 
 ---
 
@@ -38,7 +41,7 @@
 
 ### 💬 Random Dev Quote
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=socrates)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=socrates&quoteCategory=programming)
 
 ---
 
