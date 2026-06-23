@@ -34,17 +34,13 @@ I prefer boring, well-understood solutions over clever ones — code that is sti
 
 <div align="center">
 
-<a href="https://elite-mob.github.io/elite-mob/" title="Open interactive 3D contribution graph">
-  <img
-    src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/profile-3d-contrib/profile-gitblock.svg"
-    alt="3D contribution graph across all repositories"
-    width="100%"
-  />
-</a>
+<img
+  src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/profile-3d-contrib/profile-green-animate.svg"
+  alt="Animated 3D contribution graph across all repositories"
+  width="100%"
+/>
 
-**[Explore interactive 3D view →](https://elite-mob.github.io/elite-mob/)** · drag to rotate · scroll to zoom · hover for details
-
-<sub>Updated daily across all repositories via GitHub Actions</sub>
+<sub>Animated 3D graph embedded on your profile · blocks build on load · updated daily across all repositories</sub>
 
 </div>
 
@@ -53,7 +49,7 @@ I prefer boring, well-understood solutions over clever ones — code that is sti
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elite-mob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elite-mob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=elite-mob&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
