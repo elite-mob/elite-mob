@@ -46,19 +46,6 @@ I prefer boring, well-understood solutions over clever ones — code that is sti
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elite-mob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=elite-mob&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elite-mob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
-
----
-
 <div align="center">
   <sub>If you have a project in mind, feel free to reach out — I focus on work that ships cleanly and holds up in production.</sub>
 </div>
