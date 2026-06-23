@@ -8,6 +8,10 @@
 
 ## 3D Contributions
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph across all repositories" />
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/profile-3d-contrib/profile-gitblock.svg"
+    alt="3D contribution graph across all repositories"
+    width="100%"
+  />
+</p>
