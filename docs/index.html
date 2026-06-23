@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Interactive 3D GitHub contribution graph for elite-mob across all repositories."
+    />
+    <title>elite-mob · 3D Contributions</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="header">
+        <div>
+          <p class="eyebrow">GitHub Profile</p>
+          <h1>3D Contribution Graph</h1>
+          <p class="subtitle">
+            Live activity across all repositories for
+            <a href="https://github.com/elite-mob" target="_blank" rel="noreferrer">elite-mob</a>
+          </p>
+        </div>
+        <div class="actions">
+          <a class="button" href="https://github.com/elite-mob" target="_blank" rel="noreferrer">GitHub</a>
+          <a class="button ghost" href="https://github.com/elite-mob/elite-mob" target="_blank" rel="noreferrer">Profile README</a>
+        </div>
+      </header>
+
+      <section class="panel stats" id="stats">
+        <div class="stat">
+          <span class="label">Last year</span>
+          <strong id="total-contributions">—</strong>
+        </div>
+        <div class="stat">
+          <span class="label">Active days</span>
+          <strong id="active-days">—</strong>
+        </div>
+        <div class="stat">
+          <span class="label">Best day</span>
+          <strong id="best-day">—</strong>
+        </div>
+        <div class="stat">
+          <span class="label">Hovered</span>
+          <strong id="hovered-day">Drag to explore</strong>
+        </div>
+      </section>
+
+      <section class="panel viewport">
+        <div class="viewport-overlay">
+          <div class="legend">
+            <span>Less</span>
+            <span class="swatch l0"></span>
+            <span class="swatch l1"></span>
+            <span class="swatch l2"></span>
+            <span class="swatch l3"></span>
+            <span class="swatch l4"></span>
+            <span>More</span>
+          </div>
+          <p class="hint">Drag to rotate · Scroll to zoom · Hover blocks for commit counts</p>
+        </div>
+        <div id="loading" class="loading">Loading contribution data…</div>
+        <canvas id="canvas"></canvas>
+      </section>
+    </div>
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.170.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.170.0/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>

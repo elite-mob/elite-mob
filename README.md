@@ -1,17 +1,68 @@
-<!-- Replace elite-mob with your GitHub username in URLs below if different -->
-
 <div align="center">
-  <img width="1000" alt="full-stack" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
+  <img width="1000" alt="Senior full-stack software engineer" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
+  
+  ### Senior Full-Stack Software Engineer
+  
+  Building production-ready web and mobile products end to end — from architecture and UI to deployment and long-term support.
+  
+  <br />
+  
+  [![GitHub followers](https://img.shields.io/github/followers/elite-mob?style=for-the-badge&logo=github&color=24292f&labelColor=0d1117)](https://github.com/elite-mob)
+  [![Profile views](https://komarev.com/ghpvc/?username=elite-mob&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/elite-mob)
 </div>
 
 ---
 
-## 3D Contributions
+## About
 
-<p align="center">
+I'm a senior full-stack engineer focused on systems that hold up in production. I ship complete products — public sites, internal dashboards, mobile apps, admin panels, and integrations — with clear ownership and predictable behavior.
+
+| Area | Focus |
+| :--- | :--- |
+| **Backend** | Node.js, Python, REST, event-driven systems, background jobs, payments |
+| **Frontend** | TypeScript, React, performance, state management, pragmatic UX |
+| **Mobile** | React Native, native iOS/Android, app architecture, store releases |
+| **Data** | SQL, schema design, migrations, reporting, data integrity |
+| **Infrastructure** | AWS, Docker, CI/CD, monitoring, incident handling |
+| **AI/ML** | LLM integrations with cost control, validation, and reliability |
+
+I prefer boring, well-understood solutions over clever ones — code that is still easy to reason about months after it ships.
+
+---
+
+## Git Activity
+
+<div align="center">
+
+<a href="https://elite-mob.github.io/elite-mob/" title="Open interactive 3D contribution graph">
   <img
     src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/profile-3d-contrib/profile-gitblock.svg"
     alt="3D contribution graph across all repositories"
     width="100%"
   />
-</p>
+</a>
+
+**[Explore interactive 3D view →](https://elite-mob.github.io/elite-mob/)** · drag to rotate · scroll to zoom · hover for details
+
+<sub>Updated daily across all repositories via GitHub Actions</sub>
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elite-mob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=elite-mob&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elite-mob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>If you have a project in mind, feel free to reach out — I focus on work that ships cleanly and holds up in production.</sub>
+</div>
