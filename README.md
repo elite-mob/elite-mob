@@ -3,3 +3,11 @@
 <div align="center">
   <img width="1000" alt="full-stack" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
 </div>
+
+---
+
+## 3D Contributions
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph across all repositories" />
+</div>
