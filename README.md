@@ -15,9 +15,9 @@
 
 ### About
 
-I'm a senior full-stack engineer who ships **complete products** — not just features. From discovery and UI through backend, deployment, and long-term support, I build systems that stay understandable and reliable in production.
+I'm a senior full-stack engineer who ships complete products, not just features. From discovery and UI through backend, deployment, and long-term support, I build systems that stay understandable and reliable in production.
 
-I also build **modern AI-powered products**: LLM integrations, RAG pipelines, agent workflows, evals, and the infrastructure to run them reliably in production — with attention to cost, latency, validation, and safety.
+I also build modern AI-powered products: LLM integrations, RAG pipelines, agent workflows, evals, and the infrastructure to run them reliably in production with attention to cost, latency, validation, and safety.
 
 > Boring, well-understood solutions over clever ones. Clean ownership. Code you can still reason about months after it ships.
 
@@ -27,9 +27,7 @@ I also build **modern AI-powered products**: LLM integrations, RAG pipelines, ag
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/daily-quote.svg" alt="Daily quote on engineering, intelligence, and inspiration" width="500" />
-
-<sub>Rotates daily across inspirational, intelligence, and programming quotes</sub>
+<img src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/daily-quote.svg" alt="Daily quote" width="500" />
 
 </div>
 
@@ -47,10 +45,10 @@ I also build **modern AI-powered products**: LLM integrations, RAG pipelines, ag
 
 | | |
 | :--- | :--- |
-| **Backend** | Node.js · Python · REST · event-driven systems · payments |
-| **Frontend** | TypeScript · React · performance · state management · UX |
-| **Mobile** | React Native · iOS/Android · architecture · store releases |
-| **Platform** | AWS · Docker · CI/CD · monitoring · SQL · observability |
+| **Backend** | Node.js, Python, REST, event-driven systems, payments |
+| **Frontend** | TypeScript, React, performance, state management, UX |
+| **Mobile** | React Native, iOS/Android, architecture, store releases |
+| **Platform** | AWS, Docker, CI/CD, monitoring, SQL, observability |
 
 ---
 
@@ -58,7 +56,7 @@ I also build **modern AI-powered products**: LLM integrations, RAG pipelines, ag
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,nodejs,redis,postgres,aws,docker,graphql,kafka&perline=8" alt="AI and LLM development stack" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,nodejs,redis,postgres,aws,docker,graphql,kafka&perline=8" alt="AI stack" />
 
 </div>
 
@@ -66,11 +64,11 @@ I also build **modern AI-powered products**: LLM integrations, RAG pipelines, ag
 
 | | |
 | :--- | :--- |
-| **LLM apps** | OpenAI · Anthropic · Gemini · prompt design · tool calling · streaming UX |
-| **RAG & data** | embeddings · vector search · chunking · retrieval tuning · eval datasets |
-| **Agents** | multi-step workflows · MCP · background jobs · human-in-the-loop flows |
-| **Production AI** | cost control · caching · guardrails · monitoring · fallbacks · A/B testing |
-| **MLOps** | PyTorch · TensorFlow · model serving · pipelines · experiment tracking |
+| **LLM apps** | OpenAI, Anthropic, Gemini, prompt design, tool calling, streaming UX |
+| **RAG & data** | embeddings, vector search, chunking, retrieval tuning, eval datasets |
+| **Agents** | multi-step workflows, MCP, background jobs, human-in-the-loop flows |
+| **Production AI** | cost control, caching, guardrails, monitoring, fallbacks, A/B testing |
+| **MLOps** | PyTorch, TensorFlow, model serving, pipelines, experiment tracking |
 
 ---
 
@@ -83,12 +81,10 @@ I also build **modern AI-powered products**: LLM integrations, RAG pipelines, ag
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elite-mob/elite-mob/main/profile-3d-contrib/profile-green-animate.svg" />
   <img
     src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/profile-3d-contrib/profile-green-animate.svg"
-    alt="Animated 3D contribution graph across all repositories"
+    alt="3D contribution graph"
     width="100%"
   />
 </picture>
-
-<sub>3D contribution activity across all repositories · stats refresh daily at 08:00 UTC</sub>
 
 </div>
 
@@ -110,10 +106,6 @@ I also build **modern AI-powered products**: LLM integrations, RAG pipelines, ag
 
 <div align="center">
 
-**Open to interesting projects** — especially AI-powered products and systems that ship cleanly and hold up in production.
-
-<br />
-
-<sub>Full-stack engineering · modern AI development · clarity, reliability, and long-term maintainability</sub>
+**Open to interesting projects, especially AI-powered products that ship cleanly and hold up in production.**
 
 </div>

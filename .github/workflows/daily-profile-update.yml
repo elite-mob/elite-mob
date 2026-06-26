@@ -2,7 +2,7 @@ name: Daily Profile Update
 
 on:
   schedule:
-    # 08:00 UTC every day — adjust if you want a different morning hour
+    # 08:00 UTC every day. Adjust if you want a different morning hour.
     - cron: "0 8 * * *"
   workflow_dispatch:
 
