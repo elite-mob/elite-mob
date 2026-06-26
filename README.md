@@ -21,6 +21,18 @@ I'm a senior full-stack engineer who ships **complete products** — not just fe
 
 ---
 
+### Quote of the Day
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/daily-quote.svg" alt="Daily famous quote" width="500" />
+
+<sub>Refreshes daily with your profile stats</sub>
+
+</div>
+
+---
+
 ### Tech Stack
 
 <div align="center">
