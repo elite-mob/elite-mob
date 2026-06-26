@@ -39,7 +39,7 @@ I also build **modern AI-powered products**: LLM integrations, RAG pipelines, ag
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,fastapi,postgres,mysql,aws,docker,kubernetes,rn,android,apple,figma,git&perline=8" alt="Core tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,fastapi,postgres,mysql,aws,docker,kubernetes,swift,kotlin,apple,figma,git&perline=8" alt="Core tech stack" />
 
 </div>
 
@@ -58,7 +58,7 @@ I also build **modern AI-powered products**: LLM integrations, RAG pipelines, ag
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,openai,fastapi,nodejs,redis,postgres,aws,docker,graphql,kafka&perline=8" alt="AI and LLM development stack" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,nodejs,redis,postgres,aws,docker,graphql,kafka&perline=8" alt="AI and LLM development stack" />
 
 </div>
 
