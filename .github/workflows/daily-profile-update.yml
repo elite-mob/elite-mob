@@ -1,0 +1,48 @@
+name: Daily Profile Update
+
+on:
+  schedule:
+    # 08:00 UTC every day — adjust if you want a different morning hour
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    name: update-3d-graph-and-stats
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Download GitHub stat cards
+        run: |
+          mkdir -p github-stats
+          curl -fsSL \
+            "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false&rank_icon=percentile" \
+            -o github-stats/stats.svg
+          curl -fsSL \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=00000000&ring=47A042&fire=47A042&currStreakLabel=47A042" \
+            -o github-stats/streak.svg
+          curl -fsSL \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" \
+            -o github-stats/top-langs.svg
+          curl -fsSL \
+            "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=47a042&line=47a042&point=ffffff&area=true&custom_title=Contribution%20Activity" \
+            -o github-stats/activity-graph.svg
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: update daily profile stats and graphs"; then
+            git push
+          fi

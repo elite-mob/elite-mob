@@ -54,7 +54,7 @@ I'm a senior full-stack engineer who ships **complete products** — not just fe
   />
 </picture>
 
-<sub>3D contribution activity across all repositories · updated daily</sub>
+<sub>3D contribution activity across all repositories · stats refresh daily at 08:00 UTC</sub>
 
 </div>
 
@@ -63,13 +63,13 @@ I'm a senior full-stack engineer who ships **complete products** — not just fe
 ### GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elite-mob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false&rank_icon=percentile" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=elite-mob&theme=tokyonight&hide_border=true&background=00000000&ring=47A042&fire=47A042&currStreakLabel=47A042" alt="GitHub streak" />
+  <img height="170" src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/streak.svg" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elite-mob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Top languages" />
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=elite-mob&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=47a042&line=47a042&point=ffffff&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+  <img height="170" src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/top-langs.svg" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/activity-graph.svg" alt="Contribution activity graph" />
 </div>
 
 ---
