@@ -3,7 +3,7 @@
 
   <br />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A042&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Production-ready+web+%26+mobile+products;Architecture+%7C+UI+%7C+Backend+%7C+DevOps" alt="Typing intro" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A042&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+%26+AI+Engineer;Production-ready+web%2C+mobile+%26+AI+products;LLMs+%7C+RAG+%7C+agents+%7C+MLOps;Architecture+%7C+UI+%7C+Backend+%7C+DevOps" alt="Typing intro" /></a>
 
   <br /><br />
 
@@ -17,6 +17,8 @@
 
 I'm a senior full-stack engineer who ships **complete products** — not just features. From discovery and UI through backend, deployment, and long-term support, I build systems that stay understandable and reliable in production.
 
+I also build **modern AI-powered products**: LLM integrations, RAG pipelines, agent workflows, evals, and the infrastructure to run them reliably in production — with attention to cost, latency, validation, and safety.
+
 > Boring, well-understood solutions over clever ones. Clean ownership. Code you can still reason about months after it ships.
 
 ---
@@ -25,9 +27,9 @@ I'm a senior full-stack engineer who ships **complete products** — not just fe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/daily-quote.svg" alt="Daily inspirational quote" width="500" />
+<img src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/daily-quote.svg" alt="Daily quote on engineering, intelligence, and inspiration" width="500" />
 
-<sub>Refreshes daily with your profile stats</sub>
+<sub>Rotates daily across inspirational, intelligence, and programming quotes</sub>
 
 </div>
 
@@ -37,7 +39,7 @@ I'm a senior full-stack engineer who ships **complete products** — not just fe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,fastapi,postgres,mysql,aws,docker,kubernetes,rn,android,apple,figma,git&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,fastapi,postgres,mysql,aws,docker,kubernetes,rn,android,apple,figma,git&perline=8" alt="Core tech stack" />
 
 </div>
 
@@ -48,7 +50,27 @@ I'm a senior full-stack engineer who ships **complete products** — not just fe
 | **Backend** | Node.js · Python · REST · event-driven systems · payments |
 | **Frontend** | TypeScript · React · performance · state management · UX |
 | **Mobile** | React Native · iOS/Android · architecture · store releases |
-| **Platform** | AWS · Docker · CI/CD · monitoring · SQL · LLM integrations |
+| **Platform** | AWS · Docker · CI/CD · monitoring · SQL · observability |
+
+---
+
+### AI & Modern LLM Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,openai,fastapi,nodejs,redis,postgres,aws,docker,graphql,kafka&perline=8" alt="AI and LLM development stack" />
+
+</div>
+
+<br />
+
+| | |
+| :--- | :--- |
+| **LLM apps** | OpenAI · Anthropic · Gemini · prompt design · tool calling · streaming UX |
+| **RAG & data** | embeddings · vector search · chunking · retrieval tuning · eval datasets |
+| **Agents** | multi-step workflows · MCP · background jobs · human-in-the-loop flows |
+| **Production AI** | cost control · caching · guardrails · monitoring · fallbacks · A/B testing |
+| **MLOps** | PyTorch · TensorFlow · model serving · pipelines · experiment tracking |
 
 ---
 
@@ -88,10 +110,10 @@ I'm a senior full-stack engineer who ships **complete products** — not just fe
 
 <div align="center">
 
-**Open to interesting projects** — especially products that need to ship cleanly and hold up in production.
+**Open to interesting projects** — especially AI-powered products and systems that ship cleanly and hold up in production.
 
 <br />
 
-<sub>Built with focus on clarity, reliability, and long-term maintainability.</sub>
+<sub>Full-stack engineering · modern AI development · clarity, reliability, and long-term maintainability</sub>
 
 </div>

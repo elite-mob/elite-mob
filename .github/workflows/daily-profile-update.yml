@@ -37,8 +37,14 @@ jobs:
           curl -fsSL \
             "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=47a042&line=47a042&point=ffffff&area=true&custom_title=Contribution%20Activity" \
             -o github-stats/activity-graph.svg
+
+      - name: Download daily quote
+        run: |
+          QUOTE_CATEGORIES=("inspirational" "intelligence" "programming")
+          QUOTE_INDEX=$(( $(date -u +%j) % ${#QUOTE_CATEGORIES[@]} ))
+          QUOTE_CATEGORY=${QUOTE_CATEGORIES[$QUOTE_INDEX]}
           curl -fsSL \
-            "https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=inspirational&bg_color=0d1117&quote_color=47a042&author_color=c3d1d9&accent_color=47a042&border_color=243041&border_radius=12" \
+            "https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=${QUOTE_CATEGORY}&bg_color=0d1117&quote_color=47a042&author_color=c3d1d9&accent_color=47a042&border_color=243041&border_radius=12" \
             -o github-stats/daily-quote.svg
 
       - name: Commit & Push
