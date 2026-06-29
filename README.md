@@ -1,74 +1,24 @@
 <div align="center">
   <img width="1000" alt="Senior full-stack software engineer" src="https://user-images.githubusercontent.com/22513107/231665021-9e3b9ec5-9baf-4e4e-80ba-c7c2debdac11.png">
 
-  <br />
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A042&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+%26+AI+Engineer;Production-ready+web%2C+mobile+%26+AI+products;LLMs+%7C+RAG+%7C+agents+%7C+MLOps;Architecture+%7C+UI+%7C+Backend+%7C+DevOps" alt="Typing intro" /></a>
-
-  <br /><br />
-
-  [![GitHub followers](https://img.shields.io/github/followers/elite-mob?style=for-the-badge&logo=github&logoColor=white&color=161b22&labelColor=0d1117)](https://github.com/elite-mob)
-  [![Profile views](https://komarev.com/ghpvc/?username=elite-mob&label=Profile%20views&color=47a042&style=for-the-badge&labelColor=0d1117)](https://github.com/elite-mob)
+  <h3>Senior Full-Stack & AI Engineer</h3>
 </div>
 
 ---
 
 ### About
 
-I'm a senior full-stack engineer who ships complete products, not just features. From discovery and UI through backend, deployment, and long-term support, I build systems that stay understandable and reliable in production.
-
-I also build modern AI-powered products: LLM integrations, RAG pipelines, agent workflows, evals, and the infrastructure to run them reliably in production with attention to cost, latency, validation, and safety.
-
-> Boring, well-understood solutions over clever ones. Clean ownership. Code you can still reason about months after it ships.
+I build production-ready web, mobile, and AI products end to end: backend, frontend, deployment, and long-term support. LLM integrations, RAG, agents, and the infrastructure to run them reliably.
 
 ---
 
-### Quote of the Day
+### Stack
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/daily-quote.svg" alt="Daily quote" width="500" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,pytorch,tensorflow,sklearn,fastapi,postgres,aws,docker,kubernetes,swift,kotlin,git&perline=8" alt="Tech stack" />
 
 </div>
-
----
-
-### Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,fastapi,postgres,mysql,aws,docker,kubernetes,swift,kotlin,apple,figma,git&perline=8" alt="Core tech stack" />
-
-</div>
-
-<br />
-
-| | |
-| :--- | :--- |
-| **Backend** | Node.js, Python, REST, event-driven systems, payments |
-| **Frontend** | TypeScript, React, performance, state management, UX |
-| **Mobile** | React Native, iOS/Android, architecture, store releases |
-| **Platform** | AWS, Docker, CI/CD, monitoring, SQL, observability |
-
----
-
-### AI & Modern LLM Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,nodejs,redis,postgres,aws,docker,graphql,kafka&perline=8" alt="AI stack" />
-
-</div>
-
-<br />
-
-| | |
-| :--- | :--- |
-| **LLM apps** | OpenAI, Anthropic, Gemini, prompt design, tool calling, streaming UX |
-| **RAG & data** | embeddings, vector search, chunking, retrieval tuning, eval datasets |
-| **Agents** | multi-step workflows, MCP, background jobs, human-in-the-loop flows |
-| **Production AI** | cost control, caching, guardrails, monitoring, fallbacks, A/B testing |
-| **MLOps** | PyTorch, TensorFlow, model serving, pipelines, experiment tracking |
 
 ---
 
@@ -85,27 +35,5 @@ I also build modern AI-powered products: LLM integrations, RAG pipelines, agent 
     width="100%"
   />
 </picture>
-
-</div>
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/stats.svg" alt="GitHub stats" />
-  <img height="170" src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/streak.svg" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/top-langs.svg" alt="Top languages" />
-  <img height="170" src="https://raw.githubusercontent.com/elite-mob/elite-mob/main/github-stats/activity-graph.svg" alt="Contribution activity graph" />
-</div>
-
----
-
-<div align="center">
-
-**Open to interesting projects, especially AI-powered products that ship cleanly and hold up in production.**
 
 </div>
